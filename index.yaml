@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kube-agent:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-19T02:00:58.354741-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 243392d78be48644a1af7ddb7827a0cb63ad1bacbf8b07b0c811b637c3cc7f65
+    name: kube-agent
+    type: application
+    urls:
+    - https://moficodes.github.io/kube-agent-helm/kube-agent-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-19T02:00:58.354201-05:00"
